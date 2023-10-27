@@ -1,0 +1,426 @@
+html,
+body {
+    width: 1440px;
+    margin: 0;
+}
+
+p,
+h1 {
+    font-family: "IBMPlexMono";
+}
+.screen1 {
+    align-items: center;
+}
+
+.divzagolovok  {
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 400px;
+}
+
+.divscr1.svg {
+    position: relative;
+    width: 100;
+}
+ .zagolovok {
+    width: 100%;
+    color: black;
+    font-family: "IBM Plex Mono";
+    font-size: 155.77px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+
+.screen2text {
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    background-color: #000;
+    height: 500px;
+}
+
+.blabla {
+    width: 40%;
+    margin-left: -10%;
+    padding: 10%
+}
+
+.korobochka1 {
+    display: flex;
+    justify-content: space-between;
+    padding: 10%;
+}
+
+.korobochka1 div {
+    width: 300px;
+}
+
+.ibm {
+    position: absolute;
+    color: #FFF;
+    font-family: "IBM Plex Mono";
+    font-size: 75px;
+    font-style: bold;
+    font-weight: 700;
+    line-height: normal;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.eto {
+    position: relative;
+    color: #FFF;
+    font-family: "IBM Plex Mono";
+    font-size: 79.205px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: normal;
+    align-items: center;
+    line-height: 200px;
+   padding: 10%;
+}
+
+.kubiki {
+    width: 100%;
+}
+
+.bla1 {
+    position: relative;
+    color: #FFF;
+    font-family: IBM Plex Mono;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.blamini1 {
+    position: relative;
+    color: #FFF;
+    font-family: "IBM Plex Mono";
+    font-size: 30px;
+    font-style: italic;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.anytext {
+    margin-top: -200px;
+}
+.monosh {
+    margin: 50px;
+    position: relative;
+    color: #000;
+    font-family: IBM Plex Mono;
+    font-size: 75px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;   
+}
+
+
+.screen3text {
+    position: relative;
+    /* display: flex;
+    justify-content: space-around; */
+    width: 100%;
+    background: #A9FF38; 
+    height: 390px;
+    align-items: center;
+}  
+.monoframe.svg {
+    width: 100%;
+}
+
+.vremena {
+position: relative;
+color: #000;
+font-family: IBM Plex Mono;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+display: flex;
+justify-content: space-between;
+padding: 10%;
+}
+.braslet.svg{
+    position: relative;
+width: 100%;
+}
+.zasechki{
+    position: absolute;
+    color: #000;
+font-family: IBM Plex Mono;
+font-size: 75px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+width: 506px;
+height: 120px;
+transform: rotate(-18.218deg);
+flex-shrink: 0;
+left: 30px;
+margin-top: -240px;
+margin-left: 750px;
+}
+
+.box{
+    width: 28px;
+    height: 28px;
+    background-color:  #A9FF38;
+    margin-left: 78px;
+    margin-top: 11px;
+}
+
+.fremedive1 {
+    position:absolute;
+    width: 454px;
+    height: 279px;
+    margin-left: 350px;
+    margin-top: 61px;  
+}
+
+.frame1svg {
+    width: 100%; 
+ }
+
+.ibm2 {
+    position: relative;
+    color: #A9FF38;
+    font-family: IBM Plex Mono;
+    font-size: 318.646px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal; 
+margin-left: 750px;
+}
+.fest{
+    position: relative;
+    color: #A9FF38;
+    font-family: IBM Plex Mono;
+    font-size: 318.646px;
+    font-style: italic;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 10px;   
+}
+.bla2 {
+position: relative;
+color: #000;
+font-family: IBM Plex Mono;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-left: 850px;
+margin-top: -200px;
+}
+.fremedive2 {
+    width: 377px;
+    height: 435px;
+    position: relative; 
+    margin-left: 732px;
+    margin-top: -120px;
+}
+.frame2svg {
+  width: 100%;
+}
+.kursiv{
+    position: absolute;
+    color: #000;
+    font-family: IBM Plex Mono;
+    font-size: 32px;
+    font-style: italic;
+    font-weight: 500;
+    line-height: normal;
+    margin-left: 877px;
+    margin-top: 498px;
+}
+
+.rimski {
+    position: absolute;
+    color: #000;
+    font-family: IBM Plex Mono;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 802px;
+    margin-top: 598px;
+
+}
+
+.frame3svg {
+    width: 100%;
+}
+.blackscreen {
+    position: relative;
+    width: 100%;
+    background-color: #000;
+    height: 1534px;
+}
+.dvastyle{
+    color: #FFF;
+    font-family: IBM Plex Mono;
+    font-size: 75px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;   
+}
+.whiteplex{
+    color: #FFF;
+    font-family: IBM Plex Mono;
+    font-size: 562.5px;
+    font-style: italic;
+    font-weight: 600;
+    line-height: normal; 
+}
+.greenplex {
+    color: #A9FF38;
+    font-family: IBM Plex Mono;
+    font-size: 562.5px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal; 
+}
+
+.scobka {
+    width: 100%;
+} 
+
+.universal{
+    position: relative;
+     background-color: #000;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 231px;
+    }
+
+.unidiv{
+width: 238px;
+height: 39px; 
+}
+
+.divno {
+width: 61px;
+height: 58px;
+}
+
+.divdrug {
+width: 199px;
+height: 39px; 
+}
+
+
+.uni{
+    color: #FFF;
+    font-family: IBM Plex Mono;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.no {
+    color: #FFF;
+    font-family: IBM Plex Mono;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    
+}
+.drug {
+    color: #FFF;
+    font-family: IBM Plex Mono;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    
+}
+.videoftype {
+    color: #000;
+    font-family: IBM Plex Mono;
+    font-size: 75px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;   
+}
+.frame5svg {
+    width: 100%;
+}
+.dopsimvl {
+color: #000;
+font-family: IBM Plex Mono;
+font-size: 75px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.frame6svg {
+    width: 100%;
+}
+.frame7svg {
+    position: relative;
+    width: 100%;    
+}
+.graphema{ 
+    position: absolute;
+    width: 797px; 
+    height: 50px;
+    margin-left: 400px;
+    margin-top: -200px;
+    display: flex;
+    justify-content: flex-end;
+} 
+.textgraphema {
+    position: relative;
+    color: #000;
+    font-family: IBM Plex Mono;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;  
+}
+
+.finish {
+    position: absolute;
+    background-color: #000;
+    height: 236px;
+    width: 1440px;
+    
+}
+.hsediv {
+    position: relative;
+    width: 421px;
+    height: 194px;    
+    margin-left: 78px;
+    margin-top: 400px
+    display: flex;
+    justify-content: flex-end;
+}
+.frame8svg {
+    width: 100%;
+} 
+
+
+ .gruppadiv {
+    position: relative;
+    height: 42px;
+    width: 138px;
+    margin-top: -200px;
+    margin-left: 1200px;
+}
+ .gruppatext {
+    color: #FFF;
+    font-family: IBM Plex Mono;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+ }

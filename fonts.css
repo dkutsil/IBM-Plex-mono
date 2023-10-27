@@ -1,0 +1,78 @@
+@font-face {
+    font-family: "IBMPlexMono";
+    src: url(../fonts/IBMPlexMono-Bold.ttf);
+    font-style: bold;
+    font-weight: bold;
+
+}
+
+
+@font-face {
+    font-family: "IBMPlexMono";
+    src: url(../fonts/IBMPlexMono-BoldItalic.ttf);
+    font-style: BoldItalic;
+    font-weight: BoldItalic;
+}
+
+@font-face {
+    font-family: "IBMPlexMono";
+    src: url(../fonts/IBMPlexMono-Thin.ttf);
+    font-style: Thin;
+    font-weight: Thin;
+}
+
+@font-face {
+    font-family: "IBMPlexMono";
+    src: url(../fonts/IBMPlexMono-ExtraLight.ttf);
+    font-style: ExtraLight;
+    font-weight: ExtraLight;
+}
+
+@font-face {
+    font-family: "IBMPlexMono";
+    src: url(../fonts/IBMPlexMono-ExtraLightItalic.ttf);
+    font-style: ExtraLightItalic;
+    font-weight: ExtraLightItalic;
+}
+
+@font-face {
+    font-family: "IBMPlexMono";
+    src: url(../fonts/IBMPlexMono-Regular.ttf);
+    font-style: regular;
+    font-weight: regular;
+}
+
+@font-face {
+    font-family: "IBMPlexMono";
+    src: url(../fonts/IBMPlexMono-Italic.ttf);
+    font-style: italic;
+    font-weight: italic;
+}
+
+@font-face {
+    font-family: "IBMPlexMono";
+    src: url(../fonts/IBMPlexMono-Medium.ttf);
+    font-style: medium;
+    font-weight: medium;
+}
+
+@font-face {
+    font-family: "IBMPlexMono";
+    src: url(../fonts/IBMPlexMono-MediumItalic.ttf);
+    font-style: MediumItalic;
+    font-weight: MediumItalic;
+}
+
+@font-face {
+    font-family: "IBMPlexMono";
+    src: url(../fonts/IBMPlexMono-SemiBold.ttf);
+    font-style: SemiBold;
+    font-weight: SemiBold;
+}
+
+@font-face {
+    font-family: "IBMPlexMono";
+    src: url(../fonts/IBMPlexMono-SemiBoldItalic.ttf);
+    font-style: SemiBoldItalic;
+    font-weight: SemiBoldItalic;
+}
